@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "captchagen": "^1.2.0",
+    "svg-captcha": "^1.4.0",
+    "trek-captcha": "^0.4.0"
+  }
+}
